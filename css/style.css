@@ -2969,7 +2969,8 @@ footer.third-style {
   section.clients-section.with-article .client-box ul.client-list li {
     width: 100%; }
   section.gallery-section ul.gallery-list li {
-    width: 100%; } }
+    width: 100%;
+    margin-left: 20px; } }
 
     /*===== Testimonial =====*/
 .dtr-testimonial {padding-top: 40px; padding-bottom: 50px;}    
